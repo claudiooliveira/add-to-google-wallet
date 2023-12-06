@@ -5,14 +5,14 @@ issue_tracker: https://github.com/DroidsOnRoids/add-to-google-wallet/issues
 version: 0.0.3
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
-  flutter: ">=2.5.0"
+  sdk: ">=2.19.4 <3.0.0"
+  flutter: ">=3.7.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.1.6
-  plugin_platform_interface: ^2.0.2
+  flutter_svg: ^2.0.2
+  plugin_platform_interface: ^2.1.6
 
 dev_dependencies:
   flutter_test:
